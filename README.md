@@ -1,4 +1,4 @@
-![Header](https://cafelog.studio/wp-content/assets/img/Portada_Github.png "Header")
+![Header](https://cafelog.studio/wp-content/assets/img/Portada_Github_v2.png "Header")
 
 <p align="center">
     <a href="https://twitter.com/ealvser" target="blank">
