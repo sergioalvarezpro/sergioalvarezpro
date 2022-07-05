@@ -1,14 +1,11 @@
-![Header](https://cafelog.studio/wp-content/assets/img/Portada_Github_v2.png "Header")
+[![Header](https://cafelog.studio/wp-content/assets/img/Portada_Github_v2.png "Header")](https://sergioalvarez.com)
 
 <p align="center">
     <a href="https://twitter.com/ealvser" target="blank">
-      <img align="center" src="https://cafelog.studio/wp-content/assets/img/twitter.svg" alt="Twitter - Sergio Álvarez" height="28" width="28" />
+      <img align="center" src="https://cafelog.studio/wp-content/assets/img/twitter_v1.svg" alt="Twitter - Sergio Álvarez" height="28" width="28" />
     </a>
     <a href="https://www.linkedin.com/in/sergioalvarezpedraza/" target="blank">
-      <img align="center" src="https://cafelog.studio/wp-content/assets/img/linkedin.svg" alt="LinkedIn - Sergio Álvarez" height="28" width="28" />
-    </a>
-    <a href="https//cafelog.studio" target="blank">
-      <img align="center" src="https://cafelog.studio/wp-content/assets/img/wordpress.svg" alt="Cafelog Studio - Sergio Álvarez" height="28" width="28" />
+      <img align="center" src="https://cafelog.studio/wp-content/assets/img/linkedin_v1.svg" alt="LinkedIn - Sergio Álvarez" height="28" width="28" />
     </a>
 </p>
 
